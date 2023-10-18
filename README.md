@@ -1,6 +1,6 @@
 # Project-1-Group-1
 
-# PROJECT TITLE: Crypto Portfolio Risk Analysis
+PROJECT TITLE: Crypto Portfolio Risk Analysis
 
 # TEAM MEMBERS
 Adanma Adah
