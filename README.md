@@ -17,12 +17,20 @@ A selection of the current top five cryptocurrencies by market cap will be analy
 
 # RESEARCH QUESTIONS TO ANSWER
 Which crypto asset is the most volatile?
+
 Which crypto asset has the highest trading volume?
+
 Which crypto asset has the highest rate of return?
+
 Which crypto asset has the best risk/reward ratio?
 
+
 # BREAKDOWN OF TASKS
-Calculate it and Display it. 
+Calculate it and Display it.
+
 Weesam Ammar – Volume Code/graphs 
+
 Victor Pinto – Rate of return code/graphs
+
 Sergio Reyes – Projections Code/graphs
+
