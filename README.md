@@ -4,9 +4,13 @@
 
 # TEAM MEMBERS
 Adanma Adah
+
 Weesam Ammar
+
 Victor Pinto
+
 Sergio Reyes
+
 
 # PROJECT DESCRIPTION/OUTLINE
 A selection of the current top five cryptocurrencies by market cap will be analyzed and ranked by volatility, volume, risk-and-reward analysis, and projections. Results will be visualized by various graphs. A portfolio will be formed based on the data points analyzed. Investors will be presented with a weighted portfolio of crypto assets based on their risk profile.
