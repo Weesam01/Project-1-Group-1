@@ -47,5 +47,6 @@ The Crypto asset that has the best risk/reward ratio is ETH(Ethereum) followed b
 
 
 
-![Alt text](images/vol2.png)
+![Alt text](Images/vol2.png)
+
 
