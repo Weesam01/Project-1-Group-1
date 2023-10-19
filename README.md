@@ -34,3 +34,13 @@ Victor Pinto – Rate of return code/graphs
 
 Sergio Reyes – Projections Code/graphs
 
+
+#  ANSWER TO RESEARCH QUESTIONS 
+
+The Crypto deemed the most volatile is XRP
+
+The Crypto that has the highest trading volume is BTC(Bitcoin) and ETH(Ethereum)
+
+The Crypto that has the highest rate of return is ADA(Cardano) followed by ETH(Ethereum)
+
+The Crypto asset that has the best risk/reward ratio is ETH(Ethereum) followed by BTC(Bitcoin)
